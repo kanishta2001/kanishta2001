@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<a href="#readme"><img src="https://komarev.com/ghpvc/?username=kanishta2001&label=Visitor&style=for-the-badge&color=4B356D" alt="Visitor" /></a>
+<a href="#readme"><img src="https://komarev.com/ghpvc/?username=kanishta2001&label=Visitors&style=for-the-badge&color=4B356D" alt="Visitor" /></a>
 
 </div>
 
