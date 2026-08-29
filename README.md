@@ -3,14 +3,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4B356D%2C100:39476E&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=FFFFFF"
+      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=FFFFFF"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=000000"
+      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=000000"
     />
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4B356D%2C100:39476E&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=000000"
+      src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;text=Hello!&amp;height=100&amp;section=header&amp;fontColor=000000"
       alt="Hello!"
     />
   </picture>
@@ -96,7 +96,7 @@
 
 
 <p align="center">
-  <a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></a>
+  <a href="#readme"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/></a>
 </p>
 
 
